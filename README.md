@@ -1,0 +1,2 @@
+The Hotel Booking Application is a Full stack web application designed to streamline hotel room reservations and administrative tasks. Built using a combination of front-end technologies such as HTML, CSS, Bootstrap, and React, and backend by Java, Spring Boot, Jwt, Rest WS, Hibernate, Jpql and MySQL on the server side,
+the system offers intuitive interfaces for both administrators and users. Administrators have access to a suite of tools for managing rooms and bookings efficiently.
